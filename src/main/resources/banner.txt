@@ -1,0 +1,19 @@
+${AnsiColor.BRIGHT_YELLOW}
+   .------------------.
+   | .--.         .--. |
+   |( O  )       ( O  )|
+   | '--'         '--' |
+   |                  |
+   |   '.________.'   |
+   |    \          /  |
+   '------------------'
+      | |       | |
+      | |       | |
+     /---\     /---\
+    '-----'   '-----'
+
+${AnsiColor.DEFAULT}
+:: I'm Ready! I'm Ready! ::  (${spring-boot.formatted-version})
+  App: ${spring.application.name}
+  Knife4j: http://localhost:8123/api/doc.html
+
